@@ -1,5 +1,5 @@
 # applescripts
-aaplescripts i find useful
+applescripts i find useful
 
 
 ### Toggle Desktop Icons
